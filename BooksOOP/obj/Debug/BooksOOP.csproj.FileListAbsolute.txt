@@ -1,0 +1,6 @@
+C:\Users\noob2\OneDrive\Документы\Visual Studio 2015\Projects\BooksOOP\BooksOOP\bin\Debug\BooksOOP.exe.config
+C:\Users\noob2\OneDrive\Документы\Visual Studio 2015\Projects\BooksOOP\BooksOOP\obj\Debug\BooksOOP.csprojResolveAssemblyReference.cache
+C:\Users\noob2\OneDrive\Документы\Visual Studio 2015\Projects\BooksOOP\BooksOOP\bin\Debug\BooksOOP.exe
+C:\Users\noob2\OneDrive\Документы\Visual Studio 2015\Projects\BooksOOP\BooksOOP\bin\Debug\BooksOOP.pdb
+C:\Users\noob2\OneDrive\Документы\Visual Studio 2015\Projects\BooksOOP\BooksOOP\obj\Debug\BooksOOP.exe
+C:\Users\noob2\OneDrive\Документы\Visual Studio 2015\Projects\BooksOOP\BooksOOP\obj\Debug\BooksOOP.pdb
